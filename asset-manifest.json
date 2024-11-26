@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-mock-api-data-generator/static/css/main.c7d95e43.css",
+    "main.js": "/React-mock-api-data-generator/static/js/main.3564959e.js",
+    "static/js/453.522da004.chunk.js": "/React-mock-api-data-generator/static/js/453.522da004.chunk.js",
+    "index.html": "/React-mock-api-data-generator/index.html",
+    "main.c7d95e43.css.map": "/React-mock-api-data-generator/static/css/main.c7d95e43.css.map",
+    "main.3564959e.js.map": "/React-mock-api-data-generator/static/js/main.3564959e.js.map",
+    "453.522da004.chunk.js.map": "/React-mock-api-data-generator/static/js/453.522da004.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7d95e43.css",
+    "static/js/main.3564959e.js"
+  ]
+}
